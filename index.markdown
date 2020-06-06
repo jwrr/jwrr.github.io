@@ -25,7 +25,7 @@ white-space: nowrap;
 JWRR Github Projects
 =============
 
-* [lued](https://github.com/jwrr/lued) - Console text editor written mostly in Lua (with some C).
+* [lued](https://jwrr.github.io/lued/) - Console text editor written mostly in Lua (with some C).
 * [carr](https://github.com/jwrr/carr) - C arrays. Support for large, dynamic arrays.
 * [efefomatic](https://github.com/jwrr/efefomatic) - Flat File web page cms.
 * [vhdl examples](https://github.com/jwrr/vhdl_examples) - Example VHDL files.
